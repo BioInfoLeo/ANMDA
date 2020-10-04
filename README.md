@@ -23,7 +23,7 @@ Step4. Adjust the hyper-parameters of ANMDA.
 Step5. Use the ANMDA on cases.
 
 Input data in Step1 are in input_data.zip.
-Output data in Step2, i.e.,input data in Step3 is in data.zip.
+Output data in Step2, i.e., input data in Step3 is in data.zip.
 
 The code of Step1 & Step2 is consturct_data.py.
 The code of Step3 & Step4 is test.py.
