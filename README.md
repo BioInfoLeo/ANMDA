@@ -33,6 +33,6 @@ The result of 100 times 5-fold cross validation is result.csv.
 
 ## Other data & code
 
-In noisy_data_test, data_clean.csv and data_noisy.csv which are extracted from raw_data.csv are used to show the noise hiding in the data. 
+In noisy_data_test.zip, data_clean.csv and data_noisy.csv which are extracted from raw_data.csv are used to show the noise hiding in the data. 
 
 The code is noisy_data_test.py.
