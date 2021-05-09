@@ -29,7 +29,7 @@ def plot_roc_curve(fpr, tpr, color, linestyle, label=None):
 
 
 def plot_presion_recall_curve(precisions, recalls, color, linestyle, label=None):
-    plt.plot(precisions, recalls, c=color, ls=linestyle, linewidth=2, label=label)
+    plt.plot(recalls, precisions, c=color, ls=linestyle, linewidth=2, label=label)
     plt.plot([0, 1], [1, 0], 'k--')
     plt.axis([0, 1, 0, 1])
     plt.xlabel("Recall")
